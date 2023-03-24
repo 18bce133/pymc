@@ -172,5 +172,5 @@ Sponsors
    :width: 250
 .. |Mistplay| image:: https://raw.githubusercontent.com/18bce133/pymc/fix_sponsor_img/docs/logos/sponsors/mistplay_label_dark.png
    :target: https://www.mistplay.com/
-   :height: 83
+   :height: 78
    :width: 250
